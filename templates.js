@@ -37,8 +37,8 @@ var TEMPLATES=[
    ]},
 
   /* ── Plantilla 3 ── */
-  {id:'t3',sku:'TPL-LAND-HELADERIA-01',title:'Plantilla Google Sites Heladería',cat:'Landing Page',price:'Pronto',
-   link:'',
+  {id:'t3',sku:'TPL-LAND-HELADERIA-01',title:'Plantilla Google Sites Heladería',cat:'Landing Page',price:'$10.99',
+   link:'https://www.suemweb.click/google-sites-templates/es/categorias/paginas-web-con-google-sites/plantilla-de-google-sites-para-menu-de-heladerias',
    desc:'Plantilla multipropósito para llevar tu heladería o negocio gastronómico a la web. Menú, descuentos y contacto en una landing page profesional y editable.',
    grad:'g-am',em:'🛒',badge:'MUY PRONTO',
    imgs:[
